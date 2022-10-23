@@ -9,4 +9,4 @@ Um projeto criado para demonstrar a utilização da API AlarmManager, no Android
 2. Execute `flutter pub get`
 3. Execute `flutter run`
 
-Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Criando um alarme com AlarmManager no Flutter]()
+Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Criando um alarme com AlarmManager no Flutter](https://medium.com/@diegokalschne/775bc2a92bc5)
